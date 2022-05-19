@@ -57,11 +57,9 @@
       </div>
     </div>
   </div>
-
-
  
   
-<a  class="eea"  href="http://cdr.eionet.europa.eu/it/eu/inspire/">M&R on EEA EIONET</a>
+<a href="http://cdr.eionet.europa.eu/it/eu/inspire/">M&R on EEA EIONET</a>
       
 <a href="https://inspire-dashboard.eea.europa.eu/dashboard/goto/988030f7f8eb431812929f2271112678">EEA dashboard</a> 
 
