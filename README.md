@@ -69,7 +69,7 @@ Summary Report on Status of implementation of the INSPIRE Directive in EU </a></
   <div class="views-field views-field-field-country">        <div class="field-content"><a href="/INSPIRE-in-your-Country/CY" class="klas_CY"><img class="countryicon iconset-gosquared_shiny_small countrycode-cy" src="https://inspire.ec.europa.eu/sites/all/modules/contrib/countryicons_gosquared/shiny-small/cy.png" alt="CY" title="Cyprus" /> Cyprus</a></div>  </div>          </td>
                   <td  class="col-2">
               
-  <div class="views-field views-field-field-country">        <div class="field-content"><a href="/IT" class="klas_IT"><img class="countryicon iconset-gosquared_shiny_small countrycode-it" src="https://inspire.ec.europa.eu/sites/all/modules/contrib/countryicons_gosquared/shiny-small/it.png" alt="IT" title="Italy" /> Italy</a></div>  </div>          </td>
+  <div class="views-field views-field-field-country">        <div class="field-content"><a href="/INSPIRE-in-your-Country/IT" class="klas_IT"><img class="countryicon iconset-gosquared_shiny_small countrycode-it" src="https://inspire.ec.europa.eu/sites/all/modules/contrib/countryicons_gosquared/shiny-small/it.png" alt="IT" title="Italy" /> Italy</a></div>  </div>          </td>
                   <td  class="col-3 col-last">
               
   <div class="views-field views-field-field-country">        <div class="field-content"><a href="/INSPIRE-in-your-Country/SK" class="klas_SK"><img class="countryicon iconset-gosquared_shiny_small countrycode-sk" src="https://inspire.ec.europa.eu/sites/all/modules/contrib/countryicons_gosquared/shiny-small/sk.png" alt="SK" title="Slovakia" /> Slovakia</a></div>  </div>          </td>
