@@ -1,7 +1,7 @@
 <h1 class="title" id="page-title"><a href="/INSPIRE in your Country">INSPIRE in your Country</a>  
   &gt;  Italy</h1>
 
-</p>
+
 <div  id="quicktabs-in_your_country" class="quicktabs-ui-wrapper"><ul><li><a href="#qt-in_your_country-ui-tabs1">Information</a></li><li><a href="#qt-in_your_country-ui-tabs2">Contact Points</a></li><li><a href="#qt-in_your_country-ui-tabs3">MIG Representatives </a></li><li><a href="#qt-in_your_country-ui-tabs4">SDICs/LMOs</a></li><li><a href="#qt-in_your_country-ui-tabs5">Pool of Experts</a></li></ul><div  id="qt-in_your_country-ui-tabs1"><div class="view view-Mappas view-id-Mappas view-display-id-page_4 view-dom-id-836492f0c030a13813a3fa007dc7054c">
             <div class="view-header">
       <div class="view view-Mappas view-id-Mappas view-display-id-page_10 widen view-dom-id-ad5a8dde9c017e7210149a9520a07309">
@@ -9,8 +9,8 @@
 
       
   <span>        <span class="kantrinen"><img class="countryicon iconset-gosquared_flat_large countrycode-it" src="https://inspire.ec.europa.eu/sites/all/modules/contrib/countryicons_gosquared/flat-large/it.png" alt="IT" title="Italy" /> Italy</span>  </span>  
-  <span class="views-field views-field-field-www">    <h6 class="views-label views-label-field-www">Website</h6>    <div class="field-content sulalist"><a href="https://www.isprambiente.gov.it">isprambiente.gov.it</a> / <a href="http://www.pcn.minambiente.it/mattm/inspire/">pcn.minambiente.it</a></div>  </span>  
-  <div class="views-field views-field-field-national-geoportal-website">    <h6 class="views-label views-label-field-national-geoportal-website">National Geoportal </h6>    <div class="field-content"><a href="http://www.pcn.minambiente.it/mattm/en/">www.pcn.minambiente.it</a></div>  </div>  
+  <span class="views-field views-field-field-www">    <h3 class="views-label views-label-field-www">Website</h3>    <div class="field-content sulalist"><a href="https://www.isprambiente.gov.it">isprambiente.gov.it</a> / <a href="http://www.pcn.minambiente.it/mattm/inspire/">pcn.minambiente.it</a></div>  </span>  
+  <div class="views-field views-field-field-national-geoportal-website">    <h3 class="views-label views-label-field-national-geoportal-website">National Geoportal </h3>    <div class="field-content"><a href="http://www.pcn.minambiente.it/mattm/en/">www.pcn.minambiente.it</a></div>  </div>  
   <div class="views-field views-field-php">        <span class="field-content"> </span>  </div>  </div>
     </div>
   
@@ -58,30 +58,15 @@
   </div>
 
 
-<!-- Needed to activate display suite support on forms -->
-  </div>
+ 
+  
+<a  class="eea"  href="http://cdr.eionet.europa.eu/it/eu/inspire/">M&R on EEA EIONET</a>
+      
+<div class="views-field views-field-field-kibana-url">        <div class="field-content"><a href="https://inspire-dashboard.eea.europa.eu/dashboard/goto/988030f7f8eb431812929f2271112678">EEA dashboard</a></div>  </div>  </div>
     </div>
+    
   
-  
-  
-  
-<div style='margin-top: 20px;'></div><a  class="eea"  href="http://cdr.eionet.europa.eu/it/eu/inspire/">M&R on EEA EIONET</a><div style='margin-bottom: 20px;'></div><div class="view view-Mappas view-id-Mappas view-display-id-page_15 view-dom-id-a2dd158d28f859b9e5460bf04ed9fb2a">
-            <div class="view-header">
-           </div>
+
   
       
-  <div class="views-field views-field-nothing-1">        <span class="field-content"></span>  </div>  
-  <div class="views-field views-field-field-kibana-url">        <div class="field-content"><a href="https://inspire-dashboard.eea.europa.eu/dashboard/goto/988030f7f8eb431812929f2271112678">EEA dashboard</a></div>  </div>  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div><div class="view view-Mappas view-id-Mappas view-display-id-page_6 view-dom-id-8b50ea344f28553f0886dfb9590c33ad">
-        
-  
-      
-  <div class="views-field views-field-php">        <span class="field-content"> <a href="http://inspire-geoportal.ec.europa.eu/results.html?country=it">INSPIRE Geoportal</a></span>  </div>  </div>
-    </div>
+<span class="field-content"> <a href="http://inspire-geoportal.ec.europa.eu/results.html?country=it">INSPIRE Geoportal</a></span>  </div>
