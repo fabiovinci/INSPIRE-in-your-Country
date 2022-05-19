@@ -9,6 +9,7 @@
 
       
   <span>        <span class="kantrinen"><img class="countryicon iconset-gosquared_flat_large countrycode-it" src="https://inspire.ec.europa.eu/sites/all/modules/contrib/countryicons_gosquared/flat-large/it.png" alt="IT" title="Italy" /> Italy</span>  </span>  
+	      
   <span class="views-field views-field-field-www">    <h3 class="views-label views-label-field-www">Website</h3>    <div class="field-content sulalist"><a href="https://www.isprambiente.gov.it">isprambiente.gov.it</a> / <a href="http://www.pcn.minambiente.it/mattm/inspire/">pcn.minambiente.it</a></div>  </span>  
   <div class="views-field views-field-field-national-geoportal-website">    <h3 class="views-label views-label-field-national-geoportal-website">National Geoportal </h3>    <div class="field-content"><a href="http://www.pcn.minambiente.it/mattm/en/">www.pcn.minambiente.it</a></div>  </div>  
   <div class="views-field views-field-php">        <span class="field-content"> </span>  </div>  </div>
@@ -62,11 +63,6 @@
   
 <a  class="eea"  href="http://cdr.eionet.europa.eu/it/eu/inspire/">M&R on EEA EIONET</a>
       
-<div class="views-field views-field-field-kibana-url">        <div class="field-content"><a href="https://inspire-dashboard.eea.europa.eu/dashboard/goto/988030f7f8eb431812929f2271112678">EEA dashboard</a></div>  </div>  </div>
-    </div>
-    
-  
+<a href="https://inspire-dashboard.eea.europa.eu/dashboard/goto/988030f7f8eb431812929f2271112678">EEA dashboard</a> 
 
-  
-      
-<span class="field-content"> <a href="http://inspire-geoportal.ec.europa.eu/results.html?country=it">INSPIRE Geoportal</a></span>  </div>
+<a href="http://inspire-geoportal.ec.europa.eu/results.html?country=it">INSPIRE Geoportal</a>
