@@ -59,8 +59,8 @@
   </div>
  
   
-<a href="http://cdr.eionet.europa.eu/it/eu/inspire/">M&R on EEA EIONET</a>
+<a href="http://cdr.eionet.europa.eu/it/eu/inspire/">M&R on EEA EIONET</a><br>
       
-<a href="https://inspire-dashboard.eea.europa.eu/dashboard/goto/988030f7f8eb431812929f2271112678">EEA dashboard</a> 
+<a href="https://inspire-dashboard.eea.europa.eu/dashboard/goto/988030f7f8eb431812929f2271112678">EEA dashboard</a><br>
 
 <a href="http://inspire-geoportal.ec.europa.eu/results.html?country=it">INSPIRE Geoportal</a>
